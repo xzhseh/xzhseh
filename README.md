@@ -1,5 +1,14 @@
-### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xzhseh)](https://github.com/anuraghazra/github-readme-stats)
+Hi, I'm **Michael Xu**.
+
+Currently an undergraduate student in Beijing University of Posts and Telecommunications.
+
+I enjoy studying and exploring various fields in Computer Science while focusing on some special fields at present.
+
+* Deep Learning in **CV/NLP**
+* Operating System
+* Database Management System
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xzhseh&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **xzhseh/xzhseh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
