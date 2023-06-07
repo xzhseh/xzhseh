@@ -2,7 +2,7 @@ Hi, I'm **Zihao Xu**, you can also call me **Michael**.
 
 Currently an undergraduate in **Purdue University**, major in Computer Science.
 
-I enjoy studying and exploring various fields in **Computer Science** while focusing on some special fields at present.
+I enjoy studying and exploring different *fields & topics* related to **Computer Science**, including...
 
 * Database Management System
 * Distributed System
