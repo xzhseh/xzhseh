@@ -1,33 +1,11 @@
-Hi, I'm **Zihao Xu**, you can also call me **Michael**.
+I'm **Zihao Xu**.
 
-Currently an undergraduate in **Purdue University**, major in Computer Science.
+an undergraduate at Purdue (will graduate soon!) and an open-source lover, focusing on building all kinds of computer systems.
 
-I enjoy studying and exploring different *fields & topics* related to **Computer Science**, including...
+some of my favorite system-related topics include, e.g., database, operating system, programming lanugages.
 
-* Database Management System
-* Distributed System
-* Software Development
-* Machine Learning System
-* Programming Languages
+**ps.** my favorite emojis → "😄🤣🤪😭😅🥺😎🥵🫣🤔😈🐱😼😡😲"
 
-Feel Free to reach out to me at *xzhseh at gmail dot com*
+**pss.** my biggest interest is to understand world in different ways.
 
----------------------------
-***P.S.*** These emojis are my favourite ——>
-"😭 🥵 😇 🤤 🥰 🥳 🤪 😋 🫣"
-
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xzhseh&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
-<!--
-**xzhseh/xzhseh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**psss.** reach out to me → @{`xzhseh at gmail.com`}; @{[zhihu](https://www.zhihu.com/people/dawn-36-29-53)}; @{[linkedin](https://www.linkedin.com/in/zihao-michael-xu/)}
