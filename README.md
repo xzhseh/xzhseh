@@ -1,1 +1,1 @@
-I'm **Zihao Xu**, and I'm feeling AGI.
+I'm **Zihao**, and I'm feeling AGI.
